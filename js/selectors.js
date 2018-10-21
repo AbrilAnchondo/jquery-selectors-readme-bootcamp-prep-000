@@ -18,3 +18,7 @@ function divSelector () {
   var twoPics = $('.pics');
   return twoPics;
 }
+
+function firstListItem () {
+  var listOne = $('#')
+}
