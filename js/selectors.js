@@ -4,3 +4,6 @@ function paragraphSelector () {
   return pTags;
 }
 
+function lastImageSelector () {
+  
+}
