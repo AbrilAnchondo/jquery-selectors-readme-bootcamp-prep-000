@@ -9,3 +9,8 @@ function lastImageSelector () {
   return lastImg;
 }
 
+function ninjaBabySelector () {
+  var somePics = $('.pics');
+  return somePics;
+}
+
